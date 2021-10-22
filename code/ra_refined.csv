@@ -1,0 +1,417 @@
+,school,sat_total_25th_75th_percentile,act_total_25th_75th_percentile
+0,Stanford University,1440-1570,32-35
+1,Harvard College,1460-1580,33-35
+2,Princeton University,1440-1570,32-35
+3,Columbia University,1450-1560,33-35
+4,Yale University,1460-1570,33-35
+5,California Institute of Technology,​​ 1530-1560,35-36
+6,Massachusetts Institute of Technology,​​ 1500-1570,34-36
+7,Brown University,​​ 1440-1570,33-35
+8,University of Chicago,​​ 1490-1570,33-35
+9,Pomona College,1390-1540,32-35
+10,University of Pennsylvania,1450-1560,33-35
+11,Dartmouth College,1440-1560,32-35
+12,Bowdoin College,1330-1520,31-34
+13,Duke University,1450-1570,33-35
+14,Swarthmore College,1380-1540,31-35
+15,Northwestern University,1440-1550,33-35
+16,Vanderbilt University,1460-1560,33-35
+17,Claremont McKenna College,1360-1510,31-34
+18,Johns Hopkins University,1470-1560,33-35
+19,Cornell University,1400-1560,32-35
+20,Rice University,1450-1560,33-35
+21,Amherst College,1410-1550,31-34
+22,Barnard College,1340-1520,31-34
+23,Bates College,1270-1480,29-33
+24,University of California—​Los Angeles,1290-1510,27-34
+25,Tulane University,1360-1520,31-33
+26,University of Southern California,1350-1530,30-34
+27,Williams College,1410-1550,32-35
+28,Colby College,1350-1510,31-33
+29,Pitzer College,1340-1490,30-33
+30,Colorado College,1300-1480,29-33
+31,Harvey Mudd College,1490-1570,33-35
+32,Georgetown University,1370-1530,31-34
+33,University of California—​Berkeley,1300-1530,28-34
+34,Tufts University,1390-1540,32-34
+35,Washington University in St. Louis,1470-1570,32-35
+36,Middlebury College,1360-1530,32-34
+37,Carnegie Mellon University,1460-1560,33-35
+38,University of Notre Dame,1400-1550,32-35
+39,The Cooper Union,1283-1510,31-34
+40,New York University,1370-1510,30-34
+41,Haverford College,1380-1540,32-34
+42,Wesleyan University,1320-1510,31-34
+43,Hamilton College,1370-1520,32-34
+44,Northeastern University,1390-1540,32-35
+45,Davidson College,1310-1485,30-33
+46,Emory University,1350-1520,31-34
+47,Carleton College,1360-1540,31-34
+48,Georgia Institute of Technology,1300-1510,29-34
+49,Washington and Lee University,1348-1490,31-34
+50,Wellesley College,1360-1530,31-34
+51,Boston University,1330-1500,30-33
+52,Colgate University,1330-1500,31-34
+53,University of North Carolina—​Chapel Hill,1300-1490,27-33
+54,University of Michigan—​Ann Arbor,1340-1530,31-34
+55,Vassar College,1370-1530,31-34
+56,Rhode Island School of Design,1180-1440,26-32
+57,University of Virginia,1340-1500,30-34
+58,Grinnell College,1370-1530,30-34
+59,Babson College,1270-1450,28-32
+60,University of California—​Irvine,1180-1440,--
+61,University of Miami,1280-1420,29-32
+62,Boston College,1370-1490,31-34
+63,Villanova University,1320-1470,31-34
+64,University of Richmond,1290-1460,30-33
+65,California State Polytechnic University—​San Luis Obispo,1250-1420,26-32
+66,Trinity University,1290-1450,29-32
+67,Case Western Reserve University,1350-1520,30-34
+68,University of Rochester,1300-1500,29-33
+69,University of California—​Santa Barbara,1260-1460,25-33
+70,Wake Forest University,1320-1490,30-33
+71,Skidmore College,1220-1400,28-32
+72,University of California—​San Diego,1250-1470,26-33
+73,Franklin and Marshall College,1250-1460,28-32
+74,Brandeis University,1280-1500,29-33
+75,Lafayette College,1250-1440,28-33
+76,American University,1220-1380,27-31
+77,University of Texas—​Austin,1240-1470,27-33
+78,Scripps College,1333-1490,30-33
+79,Lehigh University,1280-1450,29-33
+80,Macalester College,1320-1510,29-33
+81,Smith College,1340-1520,30-33
+82,Bryn Mawr College,1290-1510,29-33
+83,Trinity College (Hartford),1300-1460,29-32
+84,Denison University,1210-1380,28-31
+85,San Diego State University,1110-1320,22-29
+86,Kenyon College,1270-1460,29-33
+87,College of the Holy Cross,1260-1430,28-32
+88,Bucknell University,1255-1430,28-32
+89,Emerson College,1200-1390,27-31
+90,Pepperdine University,1220-1420,26-32
+91,Hampton University,1040-1310,19-24
+92,Oberlin College,1280-1480,29-33
+93,CUNY--Hunter,1090-1260,--
+94,Occidental College,1300-1480,28-32
+95,Connecticut College,1310-1450,30-33
+96,College of William and Mary,1320-1510,30-34
+97,Mount Holyoke College,1270-1490,27-32
+98,Berea College,1030-1213,22-27
+99,Pratt Institute,1100-1320,26-30
+100,Soka University of America,1180-1410,27-30
+101,California State University--Los Angeles,890-1080,15-20
+102,California State University--Long Beach,1040-1250,20-26
+103,Reed College,1325-1520,30-34
+104,Binghamton University—​SUNY,1310-1440,28-32
+105,Dickinson College,1240-1410,28-32
+106,University of Tulsa,1180-1410,25-32
+107,George Washington University,1280-1470,29-33
+108,University of California—​Davis,1150-1410,25-31
+109,Stevens Institute of Technology,1330-1480,30-33
+110,St. Lawrence University,1160-1350,24-30
+111,Union College (Schenectady NY),1220-1420,27-32
+112,Rensselaer Polytechnic Institute,1330-1500,29-33
+113,Bentley University,1240-1410,28-32
+114,CUNY--Baruch College,1130-1330,--
+115,Spelman College,1080-1230,22-26
+116,Loyola Marymount University,1230-1410,27-31
+117,University of Maryland—​College Park,1280-1480,29-33
+118,Stony Brook University—​SUNY,1230-1440,26-32
+119,Rhodes College,1220-1430,27-32
+120,North Carolina State University—​Raleigh,1250-1390,27-31
+121,Baylor University,1200-1380,26-32
+122,University of Dallas,1150-1360,24-30
+123,Gettysburg College,1270-1420,26-30
+124,Fordham University,1250-1430,28-32
+125,Texas Christian University,1150-1350,25-31
+126,Southern Methodist University,1300-1480,29-33
+127,Providence College,1210-1350,27-31
+128,St. Olaf College,1190-1430,26-32
+129,University of New Mexico,1040-1270,19-25
+130,University of Georgia,1240-1410,27-32
+131,University of San Diego,1200-1350,26-31
+132,University of Connecticut,1210-1420,26-31
+133,Santa Clara University,1280-1440,28-32
+134,Southwestern University,1140-1320,23-29
+135,Pennsylvania State University—​University Park,1160-1370,25-30
+136,Marist College,1210-1360,26-31
+137,The College of New Jersey,1160-1360,25-30
+138,Worcester Polytechnic Institute,1310-1470,29-33
+139,Syracuse University,1180-1370,25-30
+140,University of La Verne,1020-1205,20-26
+141,Clemson University,1230-1400,27-32
+142,Austin College,1110-1290,24-29
+143,University of California—​Santa Cruz,1200-1360,24-30
+144,University of Washington--Seattle,1240-1440,27-33
+145,California State University--Fullerton,1030-1200,19-24
+146,University of Wisconsin—​Madison,1330-1450,27-32
+147,Colorado School of Mines,1260-1460,27-33
+148,Chapman University,1190-1370,25-30
+149,Ohio State University—​Columbus,1250-1460,28-32
+150,Texas Lutheran University,990-1160,19-25
+151,University at Albany—​SUNY,1090-1250,22-28
+152,Georgia Southern,1050-1200,20-25
+153,College of Wooster,1150-1380,24-31
+154,San Jose State University,1040-1260,19-26
+155,California State Polytechnic University--Pomona,1030-1250,19-27
+156,Whitman College,1240-1450,28-33
+157,Sarah Lawrence College,1240-1420,27-32
+158,New School,1150-1360,24-30
+159,University of Pittsburgh,1260-1440,28-33
+160,University of California Riverside,1130-1340,24-30
+161,University of Minnesota—​Twin Cities,1260-1480,26-31
+162,Hobart and William Smith Colleges,1203-1360,27-30
+163,Abilene Christian University,1040-1230,21-27
+164,Bennington College,1230-1390,28-32
+165,Birmingham-​Southern College,1040-1250,22-28
+166,Fairfield University,1210-1350,26-30
+167,Georgia State,990-1190,21-26
+168,Texas A&M University—​College Station,1160-1390,26-31
+169,Saint Louis University,1180-1370,25-31
+170,St. John's College Annapolis,1210-1450,24-33
+171,Lake Forest College,1110-1310,23-29
+172,Kennesaw State University,1080-1270,21-26
+173,California State University--Fresno,950-1130,16-22
+174,Rollins College,1160-1340,24-30
+175,University of Hawaii at Manoa,1070-1270,21-26
+176,University of Denver,1170-1350,26-31
+177,Hampden-​Sydney College,1050-1250,21-27
+178,University of Illinois—​Urbana-​Champaign,1220-1480,27-33
+179,Millsaps College,1080-1260,22-28
+180,California State University--Northridge,910-1130,16-22
+181,Clark University,1200-1390,28-31
+182,Lipscomb University,1060-1320,22-29
+183,Virginia Military Institute,1090-1270,21-28
+184,Purdue University—​West Lafayette,1190-1440,25-32
+185,Temple University,1120-1320,24-30
+186,Rutgers The State University of New Jersey—​New Brunswick,1190-1410,25-31
+187,Illinois Institute of Technology,1190-1400,26-32
+188,Yeshiva University,1140-1400,22-30
+189,Illinois Wesleyan University,1120-1320,24-29
+190,Furman University,1230-1410,28-32
+191,University at Buffalo—​SUNY,1160-1340,24-29
+192,Concordia College—​Moorhead,1080-1368,21-27
+193,SUNY College of Environmental Science and Forestry,1120-1310,23-29
+194,University of Portland,1160-1330,23-29
+195,Cornell College,1100-1345,23-29
+196,Muhlenberg College,1170-1360,26-30
+197,Gonzaga University,1210-1358,25-30
+198,Beloit College,1080-1380,24-30
+199,Lawrence University,1200-1430,25-32
+200,University of Utah,1142.5-1380,22-29
+201,Allegheny College,1170-1360,24-30
+202,University of Delaware,1170-1350,25-30
+203,Westmont College,1110-1370,23-30
+204,Luther College,1050-1310,23-29
+205,Rutgers The State University of New Jersey—​Newark,1020-1190,19-24
+206,Earlham College,1100-1370,23-30
+207,Augustana College,1070-1280,22-29
+208,Wofford College,1180-1350,27-30
+209,New Jersey Institute of Technology,1190-1380,25-30
+210,University of Massachusetts—​Amherst,1190-1390,26-32
+211,Wabash College,1120-1320,23-29
+212,DePauw University,1130-1360,23-30
+213,Drury University,1045-1225,22-28
+214,St. John Fisher College,1070-1260,21-26
+215,University of San Francisco,1130-1330,23-29
+216,Bard College,1248-1420,27-31
+217,Goshen College,1010-1210,21-29
+218,Agnes Scott College,1130-1340,24-30
+219,Virginia Polytechnic Institute and State University,1180-1390,25-31
+220,University of Houston,1140-1310,22-27
+221,University of North Carolina—​Charlotte,1120-1290,22-26
+222,Truman State University,1080-1358,24-30
+223,University of North Carolina—​Wilmington,1170-1320,22-27
+224,SUNY—​Geneseo,1120-1310,23-28
+225,Embry-​Riddle Aeronautical University,1110-1320,22-29
+226,University of the Pacific,1130-1360,23-31
+227,Rochester Institute of Technology,1200-1400,27-32
+228,Berry College,1110-1310,23-29
+229,Mississippi State University,1070-1280,22-30
+230,Sewanee—​University of the South,1150-1340,25-30
+231,Hanover College,1078-1300,22-28
+232,Coe College,1078-1300,22-28
+233,Randolph-​Macon College,1020-1240,20-27
+234,Loyola University Chicago,1140-1320,25-30
+235,University of Vermont,1180-1360,26-31
+236,San Francisco State University,940-1150,17-23
+237,Brigham Young University—​Provo,1210-1420,26-31
+238,Drake University,1100-1370,24-31
+239,Stonehill College,1120-1290,24-28.5
+240,Elmhurst College,990-1210,20-26
+241,Taylor University,1080-1310,22-28
+242,DePaul University,1070-1290,--
+243,Knox College,1090-1350,24-31
+244,Hofstra University,1160-1340,25-30
+245,Ithaca College,1160-1338,25-30
+246,California State University--San Bernardino,910-1090,15-19
+247,University of South Carolina,1180-1370,25-31
+248,Albion College,990-1200,21-27
+249,Presbyterian College (SC),1010-1210,19-25
+250,Texas Tech University,1070-1260,22-27
+251,Ohio Wesleyan University,1060-1295,22-28
+252,Ripon College,1000-1210,20-27
+253,Drew University,1110-1310,25-30
+254,Gustavus Adolphus College,--,25-30
+255,Central Michigan,990-1200,20-26
+256,Oklahoma State University,1040-1265,21-28
+257,Bradley University,1070-1270,22-28
+258,Seton Hall University,1150-1310,24-28
+259,Biola University,1080-1310,21-28
+260,Ursinus College,1140-1320,23-28
+261,Montclair State,990-1170,--
+262,Clarkson University,1160-1350,24-30
+263,Michigan State University,1100-1320,23-29
+264,Hollins University,1070-1300,22-30
+265,Creighton University,1150-1350,24-30
+266,California Lutheran University,1070-1250,21-26
+267,University of Mary Washington,1050-1269,22-29
+268,Christopher Newport University,1110-1280,22-27
+269,University of California—Merced,980-1180,17-22
+270,Mercer University,1180-1340,25-30
+271,University of Dayton,1120-1320,23-29
+272,Lewis & Clark College,1220-1400,27-31
+273,Hendrix College,1153-1390,26-32
+274,University of Rhode Island,1012-1345,20-29
+275,California State University--Chico,990-1180,18-24
+276,Stetson University,1110-1300,22-29
+277,Quinnipiac University,1090-1260,23-28
+278,Duquesne University,1130-1300,23-28
+279,University of Illinois—​Chicago,1030-1260,21-28
+280,University of Akron,990-1230,19-25
+281,St. John's University (NY),1070-1270,23-29
+282,University of Cincinnati,1160-1370,24-29
+283,Simmons University,1110-1290,23-29
+284,Wayne State University,1010-1230,21-27
+285,Butler University,1150-1330,24-30
+286,Point Loma Nazarene University,1140-1310,24-29
+287,University of North Texas,1060-1250,20-26
+288,University of North Georgia,1108-1273,22-27
+289,Xavier University,1070-1250,22-28
+290,Wheaton College (MA),1150-1340,27-32
+291,Eastern Michigan,970-1190,19-25
+292,University of Washington--Bothell,1038-1250,19-28
+293,Adelphi University,1080-1270,22-27
+294,Baldwin Wallace University,1030-1250,21-27
+295,Michigan Technological University,1170-1370,25-30
+296,Drexel University,1190-1390,25-31
+297,University of Redlands,1100-1250,23-28
+298,Loyola University New Orleans,1050-1260,22-28
+299,California State University--Monterey Bay,960-1170,17-23
+300,Whittier College,1030-1213,20-25
+301,Kalamazoo College,1170-1370,25-31
+302,Towson University,1060-1220,20-25
+303,Centre College,1130-1380,26-32
+304,University of Texas San Antonio,1030-1220,19-25
+305,Ball State,--,--
+306,James Madison University,1120-1290,23-28
+307,Appalachian State University,1100-1270,22-28
+308,Indiana University—​Bloomington,1150-1360,24-31
+309,High Point University,1090-1250,22-27
+310,Virginia Commonwealth University,1070-1260,21-28
+311,University of Arkansas—​Fayetteville,1120-1300,23-30
+312,John Brown University,1060-1365,23-30
+313,University of Idaho,1010-1240,20-27
+314,University of Missouri,1090-1290,23-29
+315,Willamette University,1140-1340,31-35
+316,University of Nebraska—​Lincoln,1120-1360,22-28
+317,Carroll College,1070-1270,22-28
+318,College of Charleston,1080-1260,22-28
+319,University of Colorado—​Boulder,1140-1350,25-31
+320,Elon University,1160-1320,25-30
+321,Seattle University,1160-1330,24-30
+322,University of Texas—​Dallas,1240-1460,26-33
+323,East Carolina,1030-1190,19-24
+324,University of Tennessee,1150-1330,24-30
+325,University of Texas Arlington,1060-1260,20-26
+326,Pacific Lutheran University,1070-1270,20-28
+327,Western Michigan,1000-1210,19-26
+328,Loyola University Maryland,1143-1320,25-30
+329,Miami University—​Oxford,1210-1410,26-31
+330,Goucher College,1040-1290,22-29
+331,University of Oklahoma,1130-1310,23-29
+332,Auburn University,1150-1320,25-31
+333,University of Nevada—​Las Vegas,1030-1250,19-25
+334,Boise State,960-1180,21-26
+335,St. Mary's College of California,1070-1240,22-28
+336,Siena College,1070-1280,22-28
+337,University of North Dakota,1010-1250,20-26
+338,Texas State University,1010-1180,19.3-25.3
+339,Colorado State University,1070-1290,23-29
+340,University of Memphis,1010-1230,19-26
+341,West Virginia University,1050-1240,21-27
+342,University of Oregon,1100-1310,22-28
+343,University of St. Thomas (MN),1130-1380,24-29
+344,St. Mary's College (IN),1050-1260,22-28
+345,Illinois State,1020-1220,20-26
+346,Ohio University,1050-1260,21-26
+347,California State University--Sacramento,940-1140,16-22
+348,University of North Carolina—​Greensboro,1000-1160,19-24
+349,University of Iowa,1130-1340,22-29
+350,St. Michael's College,1140-1320,25-29
+351,University of Alaska Anchorage,1020-1220,17-24
+352,Marquette University,1120-1320,24-29
+353,College of St. Benedict,990-1210,22-27
+354,Oregon State University,1080-1320,21-28
+355,The Catholic University of America,1140-1320,24-30
+356,University of Puget Sound,1150-1370,25-30
+357,University of New Hampshire,1070-1270,22-28
+358,Missouri University of Science & Technology,1180-1380,25-31
+359,St. Mary's College of Maryland,1060-1290,21-29
+360,University of Arizona,1120-1350,21-29
+361,Susquehanna University,1100-1290,22-28
+362,Arizona State University—​Tempe,1130-1360,22-29
+363,Wheaton College (IL),1220-1440,26-32
+364,Northern Arizona,1030-1230,19-25
+365,Washington and Jefferson College,1090-1280,22-28
+366,Kent State,1040-1230,20-26
+367,Mills College,1008-1240,21-29
+368,Hope College,1130-1330,23-31
+369,Valparaiso University,1070-1290,22-29
+370,George Mason University,1110-1320,24-30
+371,Old Dominion,990-1200,18-24
+372,Missouri State,1040-1240,21-27
+373,University of Wisconsin Milwaukee,1000-1398,20-25
+374,Transylvania University,1100-1310,24-30
+375,Weber State,--,18-24
+376,University of Maine,1050-1260,21-27
+377,Humboldt State University,980-1190,17-25
+378,Utah State,1050-1310,21-28
+379,Iowa State University,1100-1340,22-28
+380,Washington College,1090-1300,20-29
+381,University of Montana,1060-1270,21-26
+382,Samford University,1070-1250,23-29
+383,University of Kansas,--,23-29
+384,University of Kentucky,1080-1300,23-29
+385,University of Toledo,1000-1240,20-26
+386,Kansas State University,--,22-28
+387,Portland State,1010-1230,18-25
+388,Queens University of Charlotte,1040-1240,21-27
+389,Western Kentucky,990-1220,19-27
+390,United States Naval Academy,1240-1520,27-32
+391,United States Military Academy,1160-1380,25-30
+392,United States Air Force Academy,1230-1440,28-33
+393,United States Coast Guard Academy,1245-1420,26-31
+394,United States Merchant Maritime Academy,1200-1340,25-31
+395,Howard University,1140-1285,22-27
+396,Florida State University,1200-1340,26-30
+397,Hillsdale College,1275-1465,29-32
+398,University of Central Florida,1160-1340,25-29
+399,University of Florida,1280-1440,27-32
+400,University of South Florida,1170-1330,25-29
+401,Gallaudet University,793-1078,15-20
+402,Florida International,1240-1300,23-28
+403,Morehouse College,1010-1210,20-25
+404,University of Alabama,1060-1280,23-31
+405,Milwaukee School of Engineering,--,25-30
+406,Florida Institute of Technology,1150-1360,24-30
+407,Louisiana State University—​Baton Rouge,1080-1310,23-29
+408,The Citadel,1050-1230,20-25
+409,New College of Florida,1220-1420,26-31
+410,Thomas Aquinas College,1220-1400,25-30
+411,University of Texas Rio Grande Valley,950-1130,17-22
+412,University of South Dakota,990-1180,19-25
+413,University of Mississippi,1050-1270,21-29
+414,University of Wyoming,1060-1280,22-28
+415,University of Texas El Paso,820-1050,17-23
