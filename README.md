@@ -111,8 +111,6 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Please fork the project, download or clone to your local machine, and submit a link in the [Google Classroom](https://classroom.google.com/u/1/w/NDEwMTU3NDY4OTQ4/t/all) assignment.**
-
 ---
 
 ### Presentation Structure
@@ -131,19 +129,6 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 Be sure to rehearse and time your presentation before class.
 
 ---
-
-### Rubric
-Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
-
-**Scores will be out of 21 points based on the 7 items in the rubric.** <br>
-*3 points per section*<br>
-
-| Score | Interpretation |
-| --- | --- |
-| **0** | *Project fails to meet the minimum requirements for this item.* |
-| **1** | *Project meets the minimum requirements for this item, but falls significantly short of portfolio-ready expectations.* |
-| **2** | *Project exceeds the minimum requirements for this item, but falls short of portfolio-ready expectations.* |
-| **3** | *Project meets or exceeds portfolio-ready expectations; demonstrates a thorough understanding of every outlined consideration.* |
 
 **Project Organization**
 - Are modules imported correctly (using appropriate aliases)?
@@ -205,7 +190,3 @@ Your local instructor will evaluate your project (for the most part) using the f
 In order to pass the project, students must earn a minimum score of 1 for each category.
 - Earning below a 1 in one or more of the above categories would result in a failing project.
 - While a minimum of 1 in each category is the required threshold for graduation, students should aim to earn at least an average of 1.5 across each category. An average score below 1.5, while it may be passing, means students may want to solicit specific feedback in order to significantly improve the project before showcasing it as part of a portfolio or the job search.
-
-### REMEMBER:
-
-This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.
